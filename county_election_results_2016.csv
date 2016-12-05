@@ -466,10 +466,10 @@
 "ar","izard","Jill Stein","45","0.8%","100",5065
 "ar","izard","Gary Johnson","125","2.3%","100",5065
 "ar","izard","Other","73","1.4%","100",5065
-"ar","jackson","Gary Johnson","111","2.2%","100",5067
+"ar","jackson","Other","111","2.2%","100",5067
 "ar","jackson","Hillary Clinton","1,583","31.1%","100",5067
 "ar","jackson","Donald Trump","3,262","64.0%","100",5067
-"ar","jackson","Other","111","2.2%","100",5067
+"ar","jackson","Gary Johnson","111","2.2%","100",5067
 "ar","jackson","Jill Stein","26","0.5%","100",5067
 "ar","jefferson","Hillary Clinton","15,721","61.2%","100",5069
 "ar","jefferson","Donald Trump","9,231","35.9%","100",5069
@@ -483,8 +483,8 @@
 "ar","johnson","Other","121","1.3%","100",5071
 "ar","lafayette","Donald Trump","1,750","61.7%","100",5073
 "ar","lafayette","Hillary Clinton","1,028","36.3%","100",5073
-"ar","lafayette","Gary Johnson","26","0.9%","100",5073
 "ar","lafayette","Other","26","0.9%","100",5073
+"ar","lafayette","Gary Johnson","26","0.9%","100",5073
 "ar","lafayette","Jill Stein","5","0.2%","100",5073
 "ar","lawrence","Donald Trump","4,064","72.2%","100",5075
 "ar","lawrence","Hillary Clinton","1,263","22.4%","100",5075
