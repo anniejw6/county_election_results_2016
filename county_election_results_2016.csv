@@ -3001,10 +3001,10 @@
 "id","clearwater","Other","38","1.0%","100",16035
 "id","custer","Donald Trump","1,777","73.6%","100",16037
 "id","custer","Hillary Clinton","427","17.7%","100",16037
-"id","custer","Other","30","1.2%","100",16037
+"id","custer","Jill Stein","30","1.2%","100",16037
 "id","custer","Evan McMullin","82","3.4%","100",16037
 "id","custer","Gary Johnson","67","2.8%","100",16037
-"id","custer","Jill Stein","30","1.2%","100",16037
+"id","custer","Other","30","1.2%","100",16037
 "id","elmore","Donald Trump","5,816","68.3%","100",16039
 "id","elmore","Hillary Clinton","1,814","21.3%","100",16039
 "id","elmore","Evan McMullin","376","4.4%","100",16039
@@ -6734,8 +6734,8 @@
 "mo","moniteau","Donald Trump","5,344","78.5%","100",29135
 "mo","moniteau","Hillary Clinton","1,237","18.2%","100",29135
 "mo","moniteau","Gary Johnson","175","2.6%","100",29135
-"mo","moniteau","Jill Stein","26","0.4%","100",29135
 "mo","moniteau","Other","26","0.4%","100",29135
+"mo","moniteau","Jill Stein","26","0.4%","100",29135
 "mo","monroe","Gary Johnson","114","2.7%","100",29137
 "mo","monroe","Donald Trump","3,159","76.2%","100",29137
 "mo","monroe","Hillary Clinton","853","20.6%","100",29137
@@ -7077,8 +7077,8 @@
 "ms","george","Jill Stein","20","0.2%","100",28039
 "ms","greene","Donald Trump","4,309","80.9%","100",28041
 "ms","greene","Hillary Clinton","956","18.0%","100",28041
-"ms","greene","Other","28","0.5%","100",28041
 "ms","greene","Gary Johnson","28","0.5%","100",28041
+"ms","greene","Other","28","0.5%","100",28041
 "ms","greene","Jill Stein","4","0.1%","100",28041
 "ms","grenada","Hillary Clinton","4,386","42.0%","100",28043
 "ms","grenada","Donald Trump","5,940","56.9%","100",28043
@@ -7133,8 +7133,8 @@
 "ms","jefferson","Jill Stein","7","0.2%","100",28063
 "ms","jefferson","Hillary Clinton","3,337","86.5%","100",28063
 "ms","jefferson","Donald Trump","489","12.7%","100",28063
-"ms","jefferson","Other","13","0.3%","100",28063
 "ms","jefferson","Gary Johnson","13","0.3%","100",28063
+"ms","jefferson","Other","13","0.3%","100",28063
 "ms","jefferson davis","Hillary Clinton","3,720","59.6%","100",28065
 "ms","jefferson davis","Donald Trump","2,466","39.5%","100",28065
 "ms","jefferson davis","Other","27","0.4%","100",28065
@@ -11973,8 +11973,8 @@
 "tx","kimble","Gary Johnson","37","1.9%","100",48267
 "tx","kimble","Jill Stein","5","0.3%","100",48267
 "tx","king","Donald Trump","149","93.7%","100",48269
-"tx","king","Gary Johnson","5","3.1%","100",48269
 "tx","king","Hillary Clinton","5","3.1%","100",48269
+"tx","king","Gary Johnson","5","3.1%","100",48269
 "tx","king","Jill Stein","-","-","100",48269
 "tx","kinney","Donald Trump","936","65.7%","100",48271
 "tx","kinney","Hillary Clinton","457","32.1%","100",48271
