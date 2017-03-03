@@ -483,8 +483,8 @@
 "ar","johnson","Other","121","1.3%","100",5071
 "ar","lafayette","Donald Trump","1,750","61.7%","100",5073
 "ar","lafayette","Hillary Clinton","1,028","36.3%","100",5073
-"ar","lafayette","Gary Johnson","26","0.9%","100",5073
 "ar","lafayette","Other","26","0.9%","100",5073
+"ar","lafayette","Gary Johnson","26","0.9%","100",5073
 "ar","lafayette","Jill Stein","5","0.2%","100",5073
 "ar","lawrence","Donald Trump","4,064","72.2%","100",5075
 "ar","lawrence","Hillary Clinton","1,263","22.4%","100",5075
@@ -5079,8 +5079,8 @@
 "la","ouachita","Hillary Clinton","24,420","35.9%","100",22073
 "la","ouachita","Gary Johnson","980","1.4%","100",22073
 "la","ouachita","Jill Stein","343","0.5%","100",22073
-"la","ouachita","Other","266","0.4%","100",22073
 "la","ouachita","Evan McMullin","266","0.4%","100",22073
+"la","ouachita","Other","266","0.4%","100",22073
 "la","plaquemines","Jill Stein","74","0.7%","100",22075
 "la","plaquemines","Evan McMullin","19","0.2%","100",22075
 "la","plaquemines","Hillary Clinton","3,347","31.7%","100",22075
@@ -5133,8 +5133,8 @@
 "la","st. helena","Donald Trump","2,497","41.9%",".100",22091
 "la","st. helena","Gary Johnson","43","0.7%",".100",22091
 "la","st. helena","Other","35","0.6%",".100",22091
-"la","st. helena","Evan McMullin","18","0.3%",".100",22091
 "la","st. helena","Jill Stein","18","0.3%",".100",22091
+"la","st. helena","Evan McMullin","18","0.3%",".100",22091
 "la","st. james","Other","47","0.4%",".100",22093
 "la","st. james","Evan McMullin","22","0.2%",".100",22093
 "la","st. james","Donald Trump","5,456","45.1%",".100",22093
@@ -6911,11 +6911,11 @@
 "mo","st. louis co","Gary Johnson","16,310","3.2%","..100",29189
 "mo","st. louis co","Jill Stein","5,072","1.0%","..100",29189
 "mo","st. louis co","Other","2,164","0.4%","..100",29189
-"mo","stoddard","Jill Stein","45","0.3%","100",29207
+"mo","stoddard","Other","45","0.3%","100",29207
 "mo","stoddard","Donald Trump","11,077","83.4%","100",29207
 "mo","stoddard","Hillary Clinton","1,873","14.1%","100",29207
 "mo","stoddard","Gary Johnson","238","1.8%","100",29207
-"mo","stoddard","Other","45","0.3%","100",29207
+"mo","stoddard","Jill Stein","45","0.3%","100",29207
 "mo","stone","Donald Trump","13,149","79.5%","100",29209
 "mo","stone","Hillary Clinton","2,886","17.5%","100",29209
 "mo","stone","Gary Johnson","382","2.3%","100",29209
@@ -11159,8 +11159,8 @@
 "tn","henry","Donald Trump","9,483","73.6%","100",47079
 "tn","henry","Hillary Clinton","3,061","23.8%","100",47079
 "tn","henry","Gary Johnson","223","1.7%","100",47079
-"tn","henry","Jill Stein","60","0.5%","100",47079
 "tn","henry","Other","60","0.5%","100",47079
+"tn","henry","Jill Stein","60","0.5%","100",47079
 "tn","hickman","Donald Trump","5,685","73.2%","100",47081
 "tn","hickman","Hillary Clinton","1,823","23.5%","100",47081
 "tn","hickman","Gary Johnson","161","2.1%","100",47081
@@ -13236,8 +13236,8 @@
 "va","sussex","Hillary Clinton","2,874","57.1%","100",51183
 "va","sussex","Donald Trump","2,055","40.8%","100",51183
 "va","sussex","Gary Johnson","63","1.3%","100",51183
-"va","sussex","Jill Stein","22","0.4%","100",51183
 "va","sussex","Evan McMullin","22","0.4%","100",51183
+"va","sussex","Jill Stein","22","0.4%","100",51183
 "va","tazewell","Donald Trump","15,160","82.0%","100",51185
 "va","tazewell","Hillary Clinton","2,895","15.7%","100",51185
 "va","tazewell","Gary Johnson","260","1.4%","100",51185
