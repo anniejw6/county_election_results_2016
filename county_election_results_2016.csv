@@ -546,9 +546,9 @@
 "ar","montgomery","Jill Stein","32","0.9%","100",5097
 "ar","montgomery","Gary Johnson","50","1.5%","100",5097
 "ar","montgomery","Other","55","1.6%","100",5097
-"ar","nevada","Gary Johnson","35","1.1%","100",5099
-"ar","nevada","Jill Stein","6","0.2%","100",5099
 "ar","nevada","Other","35","1.1%","100",5099
+"ar","nevada","Jill Stein","6","0.2%","100",5099
+"ar","nevada","Gary Johnson","35","1.1%","100",5099
 "ar","nevada","Hillary Clinton","1,156","35.8%","100",5099
 "ar","nevada","Donald Trump","2,001","61.9%","100",5099
 "ar","newton","Donald Trump","2,875","77.1%","100",5101
@@ -1323,8 +1323,8 @@
 "co","phillips","Hillary Clinton","436","18.7%","100",8095
 "co","phillips","Gary Johnson","60","2.6%","100",8095
 "co","phillips","Other","27","1.2%","100",8095
-"co","phillips","Jill Stein","9","0.4%","100",8095
 "co","phillips","Evan McMullin","9","0.4%","100",8095
+"co","phillips","Jill Stein","9","0.4%","100",8095
 "co","pitkin","Evan McMullin","41","0.4%","100",8097
 "co","pitkin","Other","38","0.4%","100",8097
 "co","pitkin","Donald Trump","2,522","24.3%","100",8097
@@ -1576,8 +1576,8 @@
 "fl","hamilton","Donald Trump","3,439","63.1%","100",12047
 "fl","hamilton","Hillary Clinton","1,899","34.8%","100",12047
 "fl","hamilton","Gary Johnson","79","1.4%","100",12047
-"fl","hamilton","Other","17","0.3%","100",12047
 "fl","hamilton","Jill Stein","17","0.3%","100",12047
+"fl","hamilton","Other","17","0.3%","100",12047
 "fl","hardee","Donald Trump","5,238","69.1%","100",12049
 "fl","hardee","Hillary Clinton","2,147","28.3%","100",12049
 "fl","hardee","Gary Johnson","140","1.8%","100",12049
@@ -2343,8 +2343,8 @@
 "ia","boone","Evan McMullin","158","1.1%","100",19015
 "ia","boone","Hillary Clinton","5,517","39.5%","100",19015
 "ia","boone","Donald Trump","7,458","53.3%","100",19015
-"ia","boone","Other","104","0.7%","100",19015
 "ia","boone","Jill Stein","104","0.7%","100",19015
+"ia","boone","Other","104","0.7%","100",19015
 "ia","bremer","Donald Trump","7,199","53.9%","100",19017
 "ia","bremer","Hillary Clinton","5,349","40.1%","100",19017
 "ia","bremer","Gary Johnson","543","4.1%","100",19017
@@ -5133,8 +5133,8 @@
 "la","st. helena","Donald Trump","2,497","41.9%",".100",22091
 "la","st. helena","Gary Johnson","43","0.7%",".100",22091
 "la","st. helena","Other","35","0.6%",".100",22091
-"la","st. helena","Jill Stein","18","0.3%",".100",22091
 "la","st. helena","Evan McMullin","18","0.3%",".100",22091
+"la","st. helena","Jill Stein","18","0.3%",".100",22091
 "la","st. james","Other","47","0.4%",".100",22093
 "la","st. james","Evan McMullin","22","0.2%",".100",22093
 "la","st. james","Donald Trump","5,456","45.1%",".100",22093
@@ -6734,8 +6734,8 @@
 "mo","moniteau","Donald Trump","5,344","78.5%","100",29135
 "mo","moniteau","Hillary Clinton","1,237","18.2%","100",29135
 "mo","moniteau","Gary Johnson","175","2.6%","100",29135
-"mo","moniteau","Other","26","0.4%","100",29135
 "mo","moniteau","Jill Stein","26","0.4%","100",29135
+"mo","moniteau","Other","26","0.4%","100",29135
 "mo","monroe","Gary Johnson","114","2.7%","100",29137
 "mo","monroe","Donald Trump","3,159","76.2%","100",29137
 "mo","monroe","Hillary Clinton","853","20.6%","100",29137
@@ -7987,8 +7987,8 @@
 "nd","foster","Donald Trump","1,237","72.8%","100",38031
 "nd","foster","Hillary Clinton","346","20.4%","100",38031
 "nd","foster","Gary Johnson","96","5.7%","100",38031
-"nd","foster","Other","10","0.6%","100",38031
 "nd","foster","Jill Stein","10","0.6%","100",38031
+"nd","foster","Other","10","0.6%","100",38031
 "nd","golden valley","Hillary Clinton","99","10.5%","100",38033
 "nd","golden valley","Donald Trump","793","84.2%","100",38033
 "nd","golden valley","Gary Johnson","40","4.2%","100",38033
